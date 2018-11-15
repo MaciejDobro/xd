@@ -5,3 +5,7 @@ C:\Users\arek9\source\repos\ExShop\ExShop\obj\Debug\ExShop.csprojAssemblyReferen
 C:\Users\arek9\source\repos\ExShop\ExShop\obj\Debug\ExShop.csproj.CoreCompileInputs.cache
 C:\Users\arek9\source\repos\ExShop\ExShop\obj\Debug\ExShop.exe
 C:\Users\arek9\source\repos\ExShop\ExShop\obj\Debug\ExShop.pdb
+C:\Users\mac99\Desktop\meetup3-oop-basics\ExShop\obj\Debug\ExShop.csprojAssemblyReference.cache
+C:\Users\mac99\Desktop\meetup3-oop-basics\ExShop\obj\Debug\ExShop.csproj.CoreCompileInputs.cache
+C:\Users\mac99\Desktop\meetup3-oop-basics\ExShop\obj\Debug\ExShop.exe
+C:\Users\mac99\Desktop\meetup3-oop-basics\ExShop\obj\Debug\ExShop.pdb
