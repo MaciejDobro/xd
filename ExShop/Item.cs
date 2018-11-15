@@ -8,11 +8,12 @@ namespace ExShop
 {
     public class Item
     {
-        //TODO: refakoryzacja tej kupy
-        public int id;
-        public string name;
-        string category;
-        public double price;
-        int quantity;
+    
+        public int Id { get; set; }
+        public string Name { get; set }
+        public int Cetegory { get; set; }
+        public double Price { get; set; }
+        public int Quantity { get; set; }
+
     }
 }
